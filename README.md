@@ -20,6 +20,10 @@ This project uses machine learning to classify white blood cell (WBC) images.
 
 - **Test Accuracy**: Achieved 89% accuracy on the test set.
 
+## Tableau
+
+- **WBC image quantity**: (https://public.tableau.com/app/profile/tais.vel/viz/wbc_17197513864010/Sheet1?publish=yes)
+
 ## Acknowledgements
 
 - (https://www.youtube.com/watch?v=RmTsvLTypIE)
